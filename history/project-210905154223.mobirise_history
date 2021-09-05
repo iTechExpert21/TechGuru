@@ -50,7 +50,9 @@
     "versionPublish": "5.4.1",
     "screenshot": "screenshot.png",
     "witsec-white-label": true,
-    "mbrsiteDomain": "a2iw3xnf9w"
+    "mbrsiteDomain": "a2iw3xnf9w",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "personalstory.html": {
